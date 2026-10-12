@@ -12,3 +12,4 @@ seaborn==0.12.1
 uvicorn==0.24.0.post1
 boto3
 python-dotenv
+requests
